@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<data>
+	<Type name= "Socket">
+		<visible>1</visible>
+		<resource>resources/screws/Socket</resource>
+	</Type>
+	<Type name = "Countersink">
+		<visible>1</visible>
+		<resource>resources/screws/Countersink</resource>
+	</Type>
+	<Type name = "Oval">
+		<visible>1</visible>
+		<resource>resources/screws/Oval</resource>
+	</Type>
+	<Type name = "Pan Head">
+		<visible>0</visible>
+		<resource>resources/screws/PanHead</resource>
+	</Type>
+	<Type name = "Truss">
+		<visible>0</visible>
+		<resource>resources/screws/Truss</resource>
+	</Type>
+	<Type name = "Round">
+		<visible>1</visible>
+		<resource>resources/screws/Round</resource>
+	</Type>
+	<Type name = "Hex">
+		<visible>1</visible>
+		<resource>resources/screws/Hex</resource>
+	</Type>
+	<Type name = "Hex with washer">
+		<visible>0</visible>
+		<resource>resources/screws/HexW</resource>
+	</Type>
+	<Type name = "Hex with washer and slot">
+		<visible>0</visible>
+		<resource>resources/screws/HexWS</resource>
+	</Type>
+	
+	<Type name = "Button">
+		<visible>1</visible>
+		<resource>resources/screws/Button</resource>
+	</Type>
+	
+</data>

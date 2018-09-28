@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<data>
+	<Size name = "#0">
+		<visible>1</visible>
+		<dk>0.094 in</dk>
+		<k>0.06 in</k>
+		<s>0.054 in</s>
+		<b>0.5 in</b>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in</l>
+	</Size>
+	<Size name = "#1">
+		<visible>1</visible>
+		<dk>0.118 in</dk>
+		<k>0.073 in</k>
+		<s>0.066 in</s>
+		<b>0.62 in</b>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in,7/8 in,1 in</l>
+	</Size>	
+	<Size name = "#2">
+		<visible>1</visible>
+		<dk>0.140 in</dk>
+		<k>0.086 in</k>
+		<s>0.077 in</s>
+		<b>0.62 in</b>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in,7/8 in,1 in</l>
+	</Size>	
+	<Size name = "#3">
+		<visible>1</visible>
+		<dk>0.161 in</dk>
+		<k>0.099 in</k>
+		<s>0.089 in</s>
+		<b>0.62 in</b>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in,7/8 in,1 in</l>
+	</Size>	
+	<Size name = "#4">
+		<visible>1</visible>
+		<dk>0.183 in</dk>
+		<k>0.112 in</k>
+		<s>0.101 in</s>
+		<b>0.75 in</b>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in,7/8 in,1 in</l>
+	</Size>	
+	<Size name = "#5">
+		<visible>1</visible>
+		<dk>0.205 in</dk>
+		<k>0.125 in</k>
+		<s>0.112 in</s>
+		<b>0.75 in</b>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in,7/8 in,1 in,1 1/4 in,1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in</l>
+	</Size>	
+	<Size name = "#6">
+		<visible>1</visible>
+		<dk>0.226 in</dk>
+		<k>0.138 in</k>
+		<s>0.124 in</s>
+		<b>0.75 in</b>
+		<l>1 1/4 in,1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,2 3/4 in</l>
+	</Size>	
+	<Size name = "#8">
+		<visible>1</visible>
+		<dk>0.270 in</dk>
+		<k>0.164 in</k>
+		<s>0.148 in</s>
+		<b>0.88 in</b>
+		<l>1 1/4 in,1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,2 3/4 in,3 in,3 1/4 in</l>
+	</Size>	
+	<Size name = "#10">
+		<visible>1</visible>
+		<dk>0.312 in</dk>
+		<k>0.190 in</k>
+		<s>0.171 in</s>
+		<b>0.88 in</b>
+		<l>1 1/4 in,1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,2 3/4 in,3 in,3 1/4 in,3 1/2 in,3 3/4 in,4 in</l>
+	</Size>	
+	<Size name = "1/4">
+		<visible>1</visible>
+		<dk>0.375 in</dk>
+		<k>0.250 in</k>
+		<s>0.225 in</s>
+		<b>1.0 in</b>
+		<l>1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,2 3/4 in,3 in,3 1/4 in,3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in</l>
+	</Size>	
+	<Size name = "5/16">
+		<visible>1</visible>
+		<dk>0.469 in</dk>
+		<k>0.3125 in</k>
+		<s>0.281 in</s>
+		<b>1.12 in</b>
+		<l>1 3/4 in,2 in,2 1/4 in,2 1/2 in,2 3/4 in,3 in,3 1/4 in,3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in,5 1/4 in,5 1/2 in,5 3/4 in,6 in,6 1/4 in</l>
+	</Size>	
+	<Size name = "3/8">
+		<visible>1</visible>
+		<dk>0.562 in</dk>
+		<k>0.375 in</k>
+		<s>0.337 in</s>
+		<b>1.25 in</b>
+		<l>1 3/4 in,2 in,2 1/4 in,2 1/2 in,2 3/4 in,3 in,3 1/4 in,3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in,5 1/4 in,5 1/2 in,5 3/4 in,6 in,6 1/4 in,6 1/2 in,6 3/4 in,7 in,7 1/4 in,7 1/2 in</l>
+	</Size>	
+	<Size name = "7/16">
+		<visible>1</visible>
+		<dk>0.656 in</dk>
+		<k>0.4375 in</k>
+		<s>0.394 in</s>
+		<b>1.38 in</b>
+		<l>2 in,2 1/4 in,2 1/2 in,2 3/4 in,3 in,3 1/4 in,3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in,5 1/4 in,5 1/2 in,5 3/4 in,6 in,6 1/4 in,6 1/2 in,6 3/4 in,7 in,7 1/4 in,7 1/2 in,7 3/4 in,8 in,8 1/2 in,9 in</l>
+	</Size>	
+	<Size name = "1/2">
+		<visible>1</visible>
+		<dk>0.750 in</dk>
+		<k>0.500 in</k>
+		<s>0.450 in</s>
+		<b>1.5 in</b>
+		<l>2 1/4 in,2 1/2 in,2 3/4 in,3 in,3 1/4 in,3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in,5 1/4 in,5 1/2 in,5 3/4 in,6 in,6 1/4 in,6 1/2 in,6 3/4 in,7 in,7 1/4 in,7 1/2 in,7 3/4 in,8 in,8 1/2 in,9 in,9 1/2 in,10 in</l>
+	</Size>	
+	<Size name = "5/8">
+		<visible>1</visible>
+		<dk>0.938 in</dk>
+		<k>0.625 in</k>
+		<s>0.562 in</s>
+		<b>1.75 in</b>
+		<l>2 1/2 in,2 3/4 in,3 in,3 1/4 in,3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in,5 1/4 in,5 1/2 in,5 3/4 in,6 in,6 1/4 in,6 1/2 in,6 3/4 in,7 in,7 1/4 in,7 1/2 in,7 3/4 in,8 in,8 1/2 in,9 in,9 1/2 in,10 in,11 in,12 in</l>
+	</Size>	
+	<Size name = "3/4">
+		<visible>1</visible>
+		<dk>1.125 in</dk>
+		<k>0.750 in</k>
+		<s>0.675 in</s>
+		<b>2.0 in</b>
+		<l>3 in,3 1/4 in,3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in,5 1/4 in,5 1/2 in,5 3/4 in,6 in,6 1/4 in,6 1/2 in,6 3/4 in,7 in,7 1/4 in,7 1/2 in,7 3/4 in,8 in,8 1/2 in,9 in,9 1/2 in,10 in,11 in,12 in,13 in,14 in,15 in</l>
+	</Size>	
+	<Size name = "7/8">
+		<visible>1</visible>
+		<dk>1.312 in</dk>
+		<k>0.875 in</k>
+		<s>0.787 in</s>
+		<b>2.25 in</b>
+		<l>3 1/4 in,3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in,5 1/4 in,5 1/2 in,5 3/4 in,6 in,6 1/4 in,6 1/2 in,6 3/4 in,7 in,7 1/4 in,7 1/2 in,7 3/4 in,8 in,8 1/2 in,9 in,9 1/2 in,10 in,11 in,12 in,13 in,14 in,15 in,16 in,17 in,18 in</l>
+	</Size>	
+	<Size name = "1">
+		<visible>1</visible>
+		<dk>1 in</dk>
+		<k>1.5 in</k>
+		<s>0.9 in</s>
+		<b>2.5 in</b>
+		<l>3 1/2 in,3 3/4 in,4 in,4 1/4 in,4 1/2 in,4 3/4 in,5 in,5 1/4 in,5 1/2 in,5 3/4 in,6 in,6 1/4 in,6 1/2 in,6 3/4 in,7 in,7 1/4 in,7 1/2 in,7 3/4 in,8 in,8 1/2 in,9 in,9 1/2 in,10 in,11 in,12 in,13 in,14 in,15 in,16 in,17 in,18 in,19 in,20 in</l>
+	</Size>	
+</data>
