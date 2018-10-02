@@ -8,7 +8,7 @@
 		<s>1/16 in</s>
 		<T>0.055 in</T>
 		<b>12</b>
-		<l>1 1/4 in,1 1/2 in,1 3/4 in,2 in</l>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in</l>
 	</Size>	
 	<Size name = "#5">
 		<visible>1</visible>
@@ -18,7 +18,7 @@
 		<s>5/64 in</s>
 		<T>0.061 in</T>
 		<b>14</b>
-		<l>1 1/4 in,1 1/2 in,1 3/4 in,2 in</l>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in</l>
 	</Size>	
 	<Size name = "#6">
 		<visible>1</visible>
@@ -28,7 +28,7 @@
 		<s>5/64 in</s>
 		<T>0.066 in</T>
 		<b>16</b>
-		<l>1 1/4 in,1 1/2 in,1 3/4 in,2 in,2 1/2 in</l>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in</l>
 	</Size>	
 	<Size name = "#8">
 		<visible>1</visible>
@@ -38,7 +38,7 @@
 		<s>3/32 in</s>
 		<T>0.076 in</T>
 		<b>18</b>
-		<l>1 1/4 in,1 1/2 in,1 3/4 in,2 in,2 1/2 in,3 in</l>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in</l>
 	</Size>	
 	<Size name = "#10">
 		<visible>1</visible>
@@ -48,7 +48,7 @@
 		<s>1/8 in</s>
 		<T>0.087 in</T>
 		<b>22</b>
-		<l>1 1/2 in,1 3/4 in,2 in,2 1/2 in,3 in,3 1/2 in</l>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in</l>
 	</Size>	
 	<Size name = "1/4">
 		<visible>1</visible>
@@ -58,7 +58,7 @@
 		<s>5/32 in</s>
 		<T>0.111 in</T>
 		<b>26</b>
-		<l>1 3/4 in,2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
+		<l>1/8 in,3/16 in,1/4 in,5/16 in,3/8 in,1/2 in,5/8 in,3/4 in,1 in, 1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
 	</Size>	
 	<Size name = "5/16">
 		<visible>1</visible>
@@ -68,7 +68,7 @@
 		<s>3/16 in</s>
 		<T>0.135 in</T>
 		<b>30</b>
-		<l>2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
+		<l>5/16 in,3/8 in,1/2 in,5/8 in,3/4 in,1 in, 1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
 	</Size>	
 	<Size name = "3/8">
 		<visible>1</visible>
@@ -78,7 +78,7 @@
 		<s>7/32 in</s>
 		<T>0.159 in</T>
 		<b>38</b>
-		<l>2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
+		<l>5/16 in,3/8 in,1/2 in,5/8 in,3/4 in,1 in, 1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
 	</Size>	
 	<Size name = "7/16">
 		<visible>1</visible>
@@ -88,7 +88,7 @@
 		<s>1/4 in</s>
 		<T>0.159 in</T>
 		<b>46</b>
-		<l>2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
+		<l>1/2 in,5/8 in,3/4 in,1 in, 1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
 	</Size>	<Size name = "1/2">
 		<visible>1</visible>
 		<dk>0.938 in</dk>
@@ -97,7 +97,7 @@
 		<s>5/16 in</s>
 		<T>0.172 in</T>
 		<b>46</b>
-		<l>2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
+		<l>1/2 in,5/8 in,3/4 in,1 in, 1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
 	</Size>	
 	<Size name = "5/8">
 		<visible>1</visible>
@@ -107,7 +107,7 @@
 		<s>3/8 in</s>
 		<T>0.220 in</T>
 		<b>46</b>
-		<l>2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
+		<l>1/2 in,5/8 in,3/4 in,1 in, 1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
 	</Size>
 	<Size name = "3/4">
 		<visible>1</visible>
@@ -117,6 +117,6 @@
 		<s>1/2 in</s>
 		<T>0.220 in</T>
 		<b>46</b>
-		<l>2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
+		<l>1/2 in,5/8 in,3/4 in,1 in, 1 1/2 in,1 3/4 in,2 in,2 1/4 in,2 1/2 in,3 in,3 1/2 in,4 in,4 1/2 in,5 in,5 1/2 in,6 in</l>
 	</Size>
 </data>

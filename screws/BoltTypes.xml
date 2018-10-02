@@ -9,11 +9,11 @@
 		<resource>resources/screws/Countersink</resource>
 	</Type>
 	<Type name = "Oval">
-		<visible>1</visible>
+		<visible>0</visible>
 		<resource>resources/screws/Oval</resource>
 	</Type>
-	<Type name = "Pan Head">
-		<visible>0</visible>
+	<Type name = "PanHead">
+		<visible>1</visible>
 		<resource>resources/screws/PanHead</resource>
 	</Type>
 	<Type name = "Truss">
