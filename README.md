@@ -13,6 +13,11 @@ You can sort the xml files as your wishs (the most ued bolt or most used size), 
 
 To edit xml files i recommend two options depending on your operating system
 
-Mac:although xcode is the default option but i prefer to use geany as it's free, light weight and faster geany-1.33_osx.dmg.
-
-Windows:  you can also use geany  and my windows prefferable is notpad++ also free
+Mac:although xcode is the default option but i prefer to use geany as it's free, light weight and faster geany-1.33_osx.dmg
+'''
+http://download.geany.org/geany-1.33_osx.dmg.
+'''
+Windows:  you can also use geany https://www.geany.org/Download/Releases  and my windows prefferable is notpad++ also free
+'''
+https://notepad-plus-plus.org/download 
+'''
