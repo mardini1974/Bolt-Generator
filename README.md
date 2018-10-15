@@ -29,3 +29,15 @@ https://notepad-plus-plus.org/download
 #### Syntexing
 library files can accept certain types of numbers
 - for millimeters just type the dimension as it is. example 
+```
+<s>2.5</s>
+```
+- for Inch dimensions add at the end of dimension "in" make sure that there is no spaces after "in".
+```
+<T>0.8 in</T> .... right texting
+<T>1/4 in</T> .... right texting
+<l>1 1/2 in</l> .... also good
+<b>0.3 in </b> .... wrong texting
+<l>0.5 in,3/8 in, 1 in, 1 1/4 in</l> .... good
+<l>0.25 in , 3/8 in</l> ....wrong notice the space after "0.25 in"
+```
