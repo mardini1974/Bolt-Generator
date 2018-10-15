@@ -26,3 +26,6 @@ and my windows prefferable is notpad++ also free:
 ```
 https://notepad-plus-plus.org/download 
 ```
+#### Syntexing
+library files can accept certain types of numbers
+- for millimeters just type the dimension as it is. example 
