@@ -39,5 +39,5 @@ library files can accept certain types of numbers
 <l>1 1/2 in</l> .... also good
 <b>0.3 in </b> .... wrong texting
 <l>0.5 in,3/8 in, 1 in, 1 1/4 in</l> .... good
-<l>0.25 in , 3/8 in</l> ....wrong notice the space after "0.25 in"
+<l>0.25 in , 3/8 in</l> ....wrong notice the extra spacing after "0.25 in" while before the number is not a problem.
 ```
