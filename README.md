@@ -1,3 +1,8 @@
+## New Fusion release and Python version is changed replace the content of the following folder:
+## C:/Users/#USERNAME/AppData/Roaming/Autodesk/ApplicationPlugins/BoltGenerator.bundle/Contents/BoltGenerator.pyin 
+## With Content of submit 18-9-2019.zip file 
+
+
 # Bolt-Generator
 Bolt Generator for Fusion 360 add in issues and library editing procedures
 ## Usage and editing
