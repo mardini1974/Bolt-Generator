@@ -1,6 +1,6 @@
 ### New Fusion release and Python version is changed replace the content of the following folder:
 #### C:/Users/#USERNAME/AppData/Roaming/Autodesk/ApplicationPlugins/BoltGenerator.bundle/Contents/
-### Replace drawscript.pyc file  
+### Replace drawscripts.pyc file  
 
 
 # Bolt-Generator
